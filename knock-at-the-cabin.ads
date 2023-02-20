@@ -3,13 +3,13 @@
 
 		"AdsController": {
 
-			"NetworkAds": "admob",
+			"NetworkAds": "unity",
 
-			"BannerAdmob": "ca-app-pub-3925188110245800/1075846747",
-			"InterstitialAdmob": "ca-app-pub-3925188110245800/6610394394",
+			"BannerAdmob": "ca-app-pub-3925100110245800/1075846747",
+			"InterstitialAdmob": "ca-app-pub-3925188000245800/6610394394",
 
-			"BannerFacebook": "1190494448168418_1190494924835037",
-			"InterstitialFacebook": "1190494448168418_1190495374834992",
+			"BannerFacebook": "1190490048168418_1190494924835037",
+			"InterstitialFacebook": "1190494400168418_1190495374834992",
 			
 			"unityGameID": "4954605",
 			"UnityPlacement": "Interstitial_Android",
